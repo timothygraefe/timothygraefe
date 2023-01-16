@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timothygraefe - software engineer and technologist.
-- 👀 I’m interested in mobile networking technology, graph DBs, machine learning, Django and Linux
-- 🌱 I’m currently learning Django and ArangoDB
-- 💞️ I’m open to collaboration on graph DBs and ML.
+- 👀 I’m interested in IoT, Raspberry Pi, mobile networking technology, graph DBs, machine learning, Django and Linux
+- 🌱 I’m currently working on a Raspberry Pi project - check my repo for websocket client
+- 💞️ I’m open to collaboration on IoT, graph DBs and ML.
 - 📫 How to reach me ... Github
 
 <!---
